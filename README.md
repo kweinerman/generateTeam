@@ -19,3 +19,8 @@ That will stem a few other questions for the user
 Once done it will ask you if you want to update a new employee 
 
 ##Video 
+
+
+
+https://user-images.githubusercontent.com/85956994/131933017-73847464-09bf-4c2a-a55e-7dbc8be92bb5.mov
+
